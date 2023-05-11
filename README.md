@@ -15,41 +15,41 @@ A full description of the dataset can be find [here](https://github.com/EduardoH
 
 #### Part 1
 
-| General Topic | Single topics  | Type | Estimated time  |
+| General Topic | Single topics  | Type | Library  |
 | :-----: | :-: | :-: | :-: |
-| Datasets | Creating, Reading and Writing | T&E | 30 min |
-| Datasets | Indexing, Selecting and Assigning | T&E | 30 min |
-| Datasets | Summary Functions and Maps | T&E | 30 min |
-| Datasets | Grouping and Sorting | T&E | 30 min |
-| Datasets | Data Types and Missing Values | T&E | 30 min |
-| Datasets | Renaming and Combining | T&E | 30 min |
+| Datasets | Creating, Reading and Writing | T&E | Pandas |
+| Datasets | Indexing, Selecting and Assigning | T&E | Pandas |
+| Datasets | Summary Functions and Maps | T&E | Pandas |
+| Datasets | Grouping and Sorting | T&E | Pandas |
+| Datasets | Data Types and Missing Values | T&E | Pandas |
+| Datasets | Renaming and Combining | T&E | Pandas |
 
 #### Part 2
 
-| General Topic | Single topics  | Type | Estimated time  |
+| General Topic | Single topics  | Type | Library  |
 | :-----: | :-: | :-: | :-: |
-| Datasets | Recap | T&E | 30 min |
-| Visualization | Plots from DataFrames | T&E | 90 min |
+| Datasets | Recap | T&E | Pandas |
+| Visualization | Plots from DataFrames | T&E | Matplotlib |
 
 
 #### Part 3
 
-| General Topic | Single topics  | Type | Estimated time  |
+| General Topic | Single topics  | Type | Library  |
 | :-----: | :-: | :-: | :-: |
-| Intro to ML | Missing Values | T&E | 30 min |
-| Intro to ML | Categorical Variables | T&E | 30 min |
-| Intro to ML | Logistic Regression | T&E | 60 min |
+| Intro to ML | Missing Values | T&E | Scikit-learn |
+| Intro to ML | Categorical Variables | T&E | Scikit-learn |
+| Intro to ML | Logistic Regression | T&E | Scikit-learn |
 
 
 
 
 #### Part 4
 
-| General Topic | Single topics  | Type | Estimated time  |
+| General Topic | Single topics  | Type | Library  |
 | :-----: | :-: | :-: | :-: |
-| Machine Learning | Base. mod., Perf. metr. & Cr. Val. | Theory | 60 min |
-| Machine Learning | Decision Tree | T&E | 60 min |
-| Machine Learning | Underfitting and Overfitting | T&E | 60 min |
+| Machine Learning | Base. mod., Perf. metr. & Cr. Val. | Theory | N/A |
+| Machine Learning | Decision Tree | T&E | Scikit-learn |
+| Machine Learning | Underfitting and Overfitting | T&E | Scikit-learn |
 
 
 
