@@ -29,7 +29,7 @@ A full description of the dataset can be find [here](https://github.com/EduardoH
 | General Topic | Single topics  | Type | Estimated time  |
 | :-----: | :-: | :-: | :-: |
 | Datasets | Recap | T&E | 30 min |
-| Visualization | Power BI | T&E | 90 min |
+| Visualization | Plots from DataFrames | T&E | 90 min |
 
 
 #### Part 3
