@@ -1,9 +1,6 @@
 ## Introduction to Data Science
 
 
-| ![](/images/DSKC_logo.png)         |
-| :-----: |
-
 ### Summary
 
 In this workshop series named A crash course in Python for Data Science, we will be working with data.
