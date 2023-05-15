@@ -45,7 +45,7 @@ The data that will be using was extracted from [The World Bank](https://databank
 | General Topic | Single topics  | Type | Library  |
 | :-----: | :-: | :-: | :-: |
 | Machine Learning | Base. mod., Perf. metr. & Cr. Val. | Theory | N/A |
-| Machine Learning | Decision Tree | T&E | Scikit-learn |
+| Machine Learning | Random Forest | T&E | Scikit-learn |
 | Machine Learning | Underfitting and Overfitting | T&E | Scikit-learn |
 
 
